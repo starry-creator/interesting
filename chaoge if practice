@@ -1,0 +1,32 @@
+if(score=100){
+  alert("奖励一辆bwm");} else if(score>=80){
+  alert("奖励一部iPhone15s");} else if(socre>=60){
+  alert("奖励一本参考书");} else {
+  alert("你还看嘛");}
+  
+  
+  
+if(high>180 ||money>5000000 ||handsome>100){
+  alert("我一点要嫁给他");} else if(high>180 &&money>50000000 &&handsome>100){
+  alert("比上不足比下有余"); else {
+  alert("这个不行");}
+  
+
+a=number1 b=number2 c=number3
+if(a>b){
+  a=e;
+  b=a;
+  e=b;}
+  
+if(b>c){
+  b=e;
+  c=b;
+  e=c;}
+
+
+if(b>c){
+  b=e;
+  c=b;
+  e=c;}
+  
+  alert(abc);
